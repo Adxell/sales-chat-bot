@@ -1,0 +1,4 @@
+pgdata/
+env/
+__pycache__
+.env
