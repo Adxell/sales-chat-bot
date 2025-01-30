@@ -16,8 +16,8 @@ This project is a Sales Training Chat Bot built using FastAPI, Slack, and Gemini
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/Adxell/sales-chat-bot.git
+   cd sales-chat-bot
 2. **Environment Variables:**:
 
     Create a `.env` file in the root of your project:
